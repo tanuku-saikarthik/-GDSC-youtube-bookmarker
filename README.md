@@ -1,3 +1,3 @@
 # youtube-bookmarker
 
-Learn how ot develop a chrome extension
+Learn how to develop a chrome extension
